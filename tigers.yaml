@@ -12,4 +12,5 @@ members:
 - Tyler
 - Kim
 
-fetch this
+fetch: this
+singed: yes
